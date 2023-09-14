@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Product & Operations role in your company**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BharathShenoy-coder](https://github.com/BharathShenoy-coder)
+- 👨‍💻 All of my projects are available at [https://github.com/BharathShenoy-coder](https://github.com/BharathShenoy-coder/Tableau_Project.git)
 
 - 💬 Ask me about **Career Guidance for Freshers/Students**
 
